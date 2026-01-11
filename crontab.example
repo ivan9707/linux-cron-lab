@@ -1,0 +1,2 @@
+# Run backup every day at 02:00
+0 2 * * * /home/ivan/linux-cron-lab/backup-home.sh
